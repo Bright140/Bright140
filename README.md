@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m ***Phan Su Bin*** 
+# 👋 Hello there, I’m ***Phan Su Bin*** 
 ![Coder](https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif)
 # 👀 About me:
 - 🤝 I’m looking for help about learning
