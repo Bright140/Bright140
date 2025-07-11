@@ -1,16 +1,9 @@
-# 👋 Hello there, I’m ***Phan Su Bin*** 
-![Coder](https://i.pinimg.com/originals/2d/79/a2/2d79a22c6a7902c41866fe4badebe98e.gif)
-# 👀 About me:
+# 👋 Hello there, I’m ***Phan Su Bin***
 - 🤝 I’m looking for help about learning
 - 🌱 I am a student of Hue University of Sciences
 - ⚡ I'm `trying to be better`
 # 💻 Programming Language && 🛠️ Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-# 🗃️ CI/CD VCS:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,git,github,md,vscode)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bright140&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bright140&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
