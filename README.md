@@ -3,6 +3,7 @@
 - 🌱 I am a student of Hue University of Sciences
 - ⚡ I'm `trying to be better`
 # 💻 Programming Language && 🛠️ Tools:
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width= 50px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50px width= 50px/>
@@ -13,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=50px width= 50px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=50px width= 50px/>
 </p>
-          
+
 # 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bright140&show_icons=true&show=prs_merged,prs_merged_percentage&theme=gotham&rank_icon=github&card_width=350)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bright140&layout=compact&theme=gotham&size_weight=0.5&count_weight=0.5)
