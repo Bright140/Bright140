@@ -5,7 +5,7 @@
 # 💻 Programming Language && 🛠️ Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width= 50px/>
+  <img src="https://devicon-website.vercel.app/api/c/original.svg" height=50px width= 50px>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height=50px width= 50px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50px width= 50px/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=50px width= 50px/>
