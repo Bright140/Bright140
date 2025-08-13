@@ -1,6 +1,5 @@
 # 👋 Hello there, I’m ***Phan Su Bin***
 - 🤝 I’m looking for help about learning
-- 🌱 I am a student of Hue University of Sciences
 - ⚡ I'm `trying to be better`
 # 💻 Programming Language && 🛠️ Tools:
 
