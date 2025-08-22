@@ -1,4 +1,4 @@
-# 👋 Hello there, I’m ***Phan Su Bin***
+# 👋 Hello there
 - 🤝 I’m looking for help about learning
 - ⚡ I'm `trying to be better`
 # 💻 Programming Language && 🛠️ Tools:
