@@ -1,6 +1,5 @@
 # 👋 Hello there
 - 🤝 I’m looking for help about learning
-- ⚡ I'm `trying to be better`
 # 💻 Programming Language && 🛠️ Tools:
 
 <p align="left">
