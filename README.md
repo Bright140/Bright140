@@ -1,5 +1,4 @@
 # 👋 Hello there
-- 🤝 I’m looking for help about learning
 # 💻 Programming Language && 🛠️ Tools:
 
 <p align="left">
