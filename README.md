@@ -1,5 +1,5 @@
 # 👋 Hello there
-# 💻 Programing Language && 🛠️ Tools:
+# 💻 Programing Language && 🛠️ Tool:
 
 <p align="left">
   <img src="https://devicon-website.vercel.app/api/c/original.svg" height=50px width= 50px></img>
