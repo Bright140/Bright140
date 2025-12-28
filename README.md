@@ -14,6 +14,3 @@
   <img src="https://devicon-website.vercel.app/api/vscode/original.svg" height=50px width= 50px></img>
 </p>
 
-# 📊 GitHub Stats:
-![Bright140's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bright140&show_icons=true&show=prs_merged,prs_merged_percentage&theme=gotham&rank_icon=github&card_width=350)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bright140&layout=compact&theme=holi&size_weight=0.5&count_weight=0.5)
