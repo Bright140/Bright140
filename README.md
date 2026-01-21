@@ -6,6 +6,7 @@
   <img src="https://devicon-website.vercel.app/api/c/original.svg" height=50px width= 50px></img>
   <img src="https://devicon-website.vercel.app/api/cplusplus/original.svg" height=50px width= 50px></img>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" height=50px width= 50px></img>
+  <img src="https://devicon-website.vercel.app/api/java/original.svg" height=50px width= 50px></img>
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height=50px width= 50px></img>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height=50px width= 50px></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height=50px width= 50px></img>
