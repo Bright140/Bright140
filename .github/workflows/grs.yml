@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
 
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: stats
           options: username=Bright140&show_icons=true&show=prs_merged,prs_merged_percentage&theme=gotham&rank_icon=github&card_width=350
@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
           options: username=Bright140&layout=compact&theme=holi&size_weight=0.5&count_weight=0.5
