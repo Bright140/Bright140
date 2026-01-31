@@ -17,7 +17,7 @@ jobs:
           card: stats
           options: username=Bright140&show_icons=true&show=prs_merged,prs_merged_percentage&theme=gotham&rank_icon=github&card_width=350
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.BRIGHTER }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -25,7 +25,7 @@ jobs:
           card: top-langs
           options: username=Bright140&layout=compact&theme=holi&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }} 
+          token: ${{ secrets.BRIGHTER }}
 
       - name: Commit cards
         run: |
