@@ -1,15 +1,15 @@
 
       <svg
-        width="437"
+        width="350"
         height="245"
-        viewBox="0 0 437 245"
+        viewBox="0 0 350 245"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
         <title id="titleId">Phan Su Bin's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 14, Total Commits  (last year) : 61, Total PRs: 8, Total PRs Merged: 7, Merged PRs Percentage: 87.50, Total Issues: 0, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Commits  (last year) : 62, Total PRs: 8, Total PRs Merged: 7, Merged PRs Percentage: 87.50, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 216.39730693125134;
+        stroke-dashoffset: 216.2993757885989;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="436"
+          width="349"
           fill="#0c1014"
           stroke-opacity="1"
         />
@@ -137,7 +137,7 @@
         >
           
     <g data-testid="rank-circle"
-          transform="translate(367, 72.5)">
+          transform="translate(323.5, 72.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40" />
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
@@ -159,7 +159,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Stars Earned:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="stars"
       >14</text>
@@ -174,10 +174,10 @@
       <text class="stat  bold" x="25" y="12.5">Total Commits (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="commits"
-      >61</text>
+      >62</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -189,7 +189,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs"
       >8</text>
@@ -204,7 +204,7 @@
       <text class="stat  bold" x="25" y="12.5">Total PRs Merged:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs_merged"
       >7</text>
@@ -219,7 +219,7 @@
       <text class="stat  bold" x="25" y="12.5">Merged PRs Percentage:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
       >87.50 %</text>
@@ -234,7 +234,7 @@
       <text class="stat  bold" x="25" y="12.5">Total Issues:</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="issues"
       >0</text>
@@ -249,7 +249,7 @@
       <text class="stat  bold" x="25" y="12.5">Contributed to (last year):</text>
       <text
         class="stat  bold"
-        x="219.01"
+        x="224.01"
         y="12.5"
         data-testid="contribs"
       >0</text>
